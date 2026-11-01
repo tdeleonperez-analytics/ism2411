@@ -1,7 +1,6 @@
 #REFLECTION:
-#1) 
-#2)
-
+#1) Lists start at index 0, so the first item within a list is at position 0 rather than 1.
+#2) In my retail job, I could have used lists to keep track of inventory, sales, and employee schedules. For example, I could have created a list of all the items in stock and their quantities, which would have made it easier to see what needed to be restocked.
 
 print()
 #Excercise 1: Build the List
